@@ -22,7 +22,7 @@ repository               : "XinhuiChen-02/XinhuiChen.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Xinhui Chen"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "Research intern in AI4Science and Generative AI, with a focus on protein engineering applications."
   location         : "Hubei, China"
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "陈心慧"# Username
+  linkedin         : "心慧-陈-7242b0208"# Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -79,7 +79,8 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
+    
   conferences:
     title: 'Conference Papers'
 
