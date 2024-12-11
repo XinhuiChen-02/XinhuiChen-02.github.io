@@ -21,7 +21,7 @@ repository               : "XinhuiChen-02/XinhuiChen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio_xinhui.jpg"
   name             : "Xinhui Chen"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "Research intern in AI4Science and Generative AI, with a focus on protein engineering applications."
