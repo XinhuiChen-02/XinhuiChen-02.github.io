@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Background"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Xinhui Chen is a research assistant in the Computer Science Department at Wuhan University. Currently, her research interests focus on AI applications in science, under the guidance of advisors [Jiaqi Chen](https://scholar.google.cz/citations?hl=zh-CN&user=Au_y5poAAAAJ) (Stanford University) and [Zuchao Li](https://scholar.google.cz/citations?hl=zh-CN&user=PyzBf5oAAAAJ) (Wuhan University). Xinhui attained her Bachelor's degree in Bioengineering from Guangdong University of Technology in June 2024. Through her diverse research experiences, Xinhui is constantly learning and developing a range of interdisciplinary skills, including programming, laboratory techniques, bioinformatics analysis. With a passion for bridging the latest AI advancements and scientific applications, Xinhui aspires to make valuable contributions to the field of AI-powered life sciences.
 
 A data-driven personal website
 ======
