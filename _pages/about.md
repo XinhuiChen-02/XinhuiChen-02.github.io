@@ -16,7 +16,6 @@ Education
 
 Publications
 ======
-
 Conference Papers
 -------
 1. Chen J, Zhu X, Wang Y, Liu T, **Chen X**, ..., McAuley J, Li L. Symbolic Representation for Any-to-Any Generative Tasks. CVPR, 2025 (Under Review).
