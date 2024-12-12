@@ -13,3 +13,20 @@ Education
 ======
 * B.S. in Guangdong, Guangdong University of Technology
 , 2020
+
+Publications
+======
+Conference Papers
+====
+* Chen J, Zhu X, Wang Y, Liu T, (*Chen X*), ..., McAuley J, Li L. Symbolic Representation for Any-to-Any Generative Tasks. CVPR, 2025 (Under Review).
+* (*Chen X*), Li Z, Chen J, et al. Generative Models in Protein Engineering: A Comprehensive Survey. NeurIPS @Foundation Models for Science, 2025. [paper](http:/)
+* Chen J*, Zhu X*, Liu T*, Chen Y, (*Chen X*), et al. Imitate Before Detect: Aligning Machine Stylistic Preference for Machine-Revised Text Detection. AAAI, 2025. [paper](http:/)
+
+Journal Articles
+====
+* Feng W*, Yang J, (*Chen X*), et al. The therapeutic effect of a new phosphodiesterase 5 inhibitor CPD1 on carbon tetrachloride - induced liver fibrosis in mice. Chinese Pharmacological Bulletin, 2023. [paper](http:/)
+* Liu A*, Ren Q, Feng W, Li B, (*Chen X*), et al. Effect of a novel phosphodiesterase type 5 inhibitor, CPD1, on unilateral renal interstitial fibrosis caused by ureteric obstruction in mice. Chinese Pharmacological Bulletin, 2022. [paper](http:/)
+
+Patents
+====
+* (*Chen X*), Zhu X, Chen Y, et al. Machine-revised text detection system based on style preference optimization. Patent in China, 2024. [Patent](http:/)
