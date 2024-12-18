@@ -21,7 +21,7 @@ Conference Papers
 -------
 1. Chen J, Zhu X, Wang Y, Liu T, **Chen X**, ..., McAuley J, Li L. Symbolic Representation for Any-to-Any Generative Tasks. CVPR, 2025 (Under Review).
 2. **Chen X**, Li Z, Chen J, et al. Generative Models in Protein Engineering: A Comprehensive Survey. NeurIPS @Foundation Models for Science, 2025. [paper](https://openreview.net/forum?id=Xc7l84S0Ao)
-3. Chen J*, Zhu X*, Liu T*, Chen Y, **Chen X**, et al. Imitate Before Detect: Aligning Machine Stylistic Preference for Machine-Revised Text Detection. AAAI, 2025. [paper](http:/)
+3. Chen J*, Zhu X*, Liu T*, Chen Y, **Chen X**, et al. Imitate Before Detect: Aligning Machine Stylistic Preference for Machine-Revised Text Detection. AAAI, 2025. [paper](https://arxiv.org/abs/2412.10432)
 
 Journal Articles
 -------
